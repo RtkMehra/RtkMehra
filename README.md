@@ -69,7 +69,7 @@ Hi, I'm Ritik – a backend-focused full-stack developer who designs clean APIs,
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="mailto:mehra.ritik1311@gmail.com">
+  <a href="mailto:mehra.ritik18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rtkmehra">
