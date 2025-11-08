@@ -7,6 +7,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RtkMehra&label=Visitors&color=blue&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/RtkMehra?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://www.ritik-mehra.site">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
@@ -19,10 +22,12 @@
 
 Hi, I'm Ritik – a backend-focused full-stack developer who designs clean APIs, scalable services, and thoughtful architectures.
 
-- 🔍 **Currently diving deep into**: Cloud-native deployments, Kubernetes, and service orchestration
-- 📦 **Loves working with**: TypeScript, PostgreSQL, Docker, and microservices
-- 🎯 **Always thinking about**: Performance, maintainability, and dev experience
-- 🧠 **Side quests**: Tinkering with gRPC, devtools automation, and open-source systems
+🌐 **Portfolio:** [www.ritik-mehra.site](https://www.ritik-mehra.site)
+
+- 🔍 **Currently diving deep into**: Cloud-native deployments, Kubernetes, and service orchestration  
+- 📦 **Loves working with**: TypeScript, PostgreSQL, Docker, and microservices  
+- 🎯 **Always thinking about**: Performance, maintainability, and dev experience  
+- 🧠 **Side quests**: Tinkering with gRPC, devtools automation, and open-source systems  
 
 ---
 
@@ -78,6 +83,9 @@ Hi, I'm Ritik – a backend-focused full-stack developer who designs clean APIs,
   <a href="https://github.com/rtkmehra">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.ritik-mehra.site">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -87,9 +95,9 @@ Hi, I'm Ritik – a backend-focused full-stack developer who designs clean APIs,
 > "Build systems you can sleep peacefully with."
 
 I care about:
-- Clear abstractions and simplicity
-- Writing code I can be proud of 6 months later
-- Delivering value, not just features
+- Clear abstractions and simplicity  
+- Writing code I can be proud of 6 months later  
+- Delivering value, not just features  
 
 ---
 
