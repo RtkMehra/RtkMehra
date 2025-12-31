@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RtkMehra&label=Visitors&color=blue&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/RtkMehra?label=Followers&style=social" alt="GitHub Followers" />
-  <a href="https://www.ritik-mehra.site">
+  <a href="https://www.ritikmehra.in">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -22,7 +22,7 @@
 
 Hi, I'm Ritik – a backend-focused full-stack developer who designs clean APIs, scalable services, and thoughtful architectures.
 
-🌐 **Portfolio:** [www.ritik-mehra.site](https://www.ritik-mehra.site)
+🌐 **Portfolio:** [www.ritikmehra.in](https://www.ritikmehra.in)
 
 - 🔍 **Currently diving deep into**: Cloud-native deployments, Kubernetes, and service orchestration  
 - 📦 **Loves working with**: TypeScript, PostgreSQL, Docker, and microservices  
@@ -83,7 +83,7 @@ Hi, I'm Ritik – a backend-focused full-stack developer who designs clean APIs,
   <a href="https://github.com/rtkmehra">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.ritik-mehra.site">
+  <a href="https://www.ritikmehra.in">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
